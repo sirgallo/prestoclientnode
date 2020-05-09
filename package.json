@@ -1,0 +1,22 @@
+{
+  "name": "prestoclientnode",
+  "version": "1.0.0",
+  "description": "An asynchronous, Node.js Presto Client package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sirgallo/prestoclientnode.git"
+  },
+  "author": "Sir Gallo <nickgallo97@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/sirgallo/prestoclientnode/issues"
+  },
+  "homepage": "https://github.com/sirgallo/prestoclientnode#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
